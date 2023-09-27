@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The study material section includes topics of discussion and questions
+  for discussion of material.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -20,26 +22,26 @@ We will refer both to Greimas’s exposition and also to a simplified exposition
 Questions for Discussion of Materials
 -------------------------------------
 
-Introduction ([PDF]({{< baseurl >}}/resources/introduction))
+Introduction ({{% resource_link a84ed3bc-285a-0ae7-9c18-59c38ded7b1d "PDF" %}})
 
-Unit One ([PDF]({{< baseurl >}}/resources/unit_1))
+Unit One ({{% resource_link 8257a3e4-f939-3169-6d0f-08a623162c32 "PDF" %}})
 
-Unit Two ([PDF]({{< baseurl >}}/resources/unit_2))
+Unit Two ({{% resource_link 58f1f013-a1fd-9c11-f91d-acc2a3ed8f66 "PDF" %}})
 
-Unit Three ([PDF]({{< baseurl >}}/resources/unit_3))
+Unit Three ({{% resource_link 2c0cb960-963d-2d46-f489-3a1469c43f08 "PDF" %}})
 
-Unit Four ([PDF]({{< baseurl >}}/resources/unit_4))
+Unit Four ({{% resource_link 622ea9d8-190a-534d-7745-caf94a384b3c "PDF" %}})
 
-Unit Five ([PDF]({{< baseurl >}}/resources/unit_5))
+Unit Five ({{% resource_link c023cb90-6a54-220c-4315-db459ef10e01 "PDF" %}})
 
-Unit Six ([PDF]({{< baseurl >}}/resources/unit_6))
+Unit Six ({{% resource_link 7ef78a18-1017-73d5-87a5-4b4a7aa789c4 "PDF" %}})
 
-Unit Seven ([PDF]({{< baseurl >}}/resources/unit_7))
+Unit Seven ({{% resource_link 5b16c62f-4458-91cb-e03b-49d0a1c791a3 "PDF" %}})
 
-Unit Eight ([PDF]({{< baseurl >}}/resources/unit_8))
+Unit Eight ({{% resource_link 7d8d38bd-efb4-37a8-88ed-75034eee1c52 "PDF" %}})
 
-Unit Nine ([PDF]({{< baseurl >}}/resources/unit_9))
+Unit Nine ({{% resource_link 174f742a-a690-041a-f5ce-9d6dbffba7fa "PDF" %}})
 
-Unit Ten ([PDF]({{< baseurl >}}/resources/unit_10))
+Unit Ten ({{% resource_link 0376dec4-413d-ef21-435c-8ca0274871c3 "PDF" %}})
 
-Unit Eleven ([PDF]({{< baseurl >}}/resources/unit_11))
+Unit Eleven ({{% resource_link c4225b3a-c35a-cf3d-c748-747d7b99b8b3 "PDF" %}})
