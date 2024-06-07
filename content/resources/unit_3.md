@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes questions for discussion on warrior members of
   an aristocratic class.
 file: /courses/21l-706-studies-in-film-fall-2005/2c0cb960963d2d46f4893a1469c43f08_unit_3.pdf
+file_size: 10717
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
