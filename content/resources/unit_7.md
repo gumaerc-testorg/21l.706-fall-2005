@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes questions for discussion on Macbeth, and The Godfather.
 file: /courses/21l-706-studies-in-film-fall-2005/5b16c62f445891cbe03b49d0a1c791a3_unit_7.pdf
+file_size: 15072
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

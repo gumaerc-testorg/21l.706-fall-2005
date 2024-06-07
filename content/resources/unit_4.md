@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes questions for discussion on My Darling Clementine.
 file: /courses/21l-706-studies-in-film-fall-2005/622ea9d8190a534d7745caf94a384b3c_unit_4.pdf
+file_size: 14891
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
