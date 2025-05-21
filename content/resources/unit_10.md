@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes questions for discussion on James?s Tale nested,
   and Sunset Boulevard.
-file: /ol-ocw-studio-app/courses/21l-706-studies-in-film-fall-2005/0376dec4413def21435c8ca0274871c3_unit_10.pdf
+file: /courses/21l-706-studies-in-film-fall-2005/0376dec4413def21435c8ca0274871c3_unit_10.pdf
 file_size: 14760
 file_type: application/pdf
 learning_resource_types: []
