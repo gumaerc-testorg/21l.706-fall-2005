@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes questions for discussion on Don Quixote, and The
   Matrix.
-file: /ol-ocw-studio-app/courses/21l-706-studies-in-film-fall-2005/58f1f013a1fd9c11f91dacc2a3ed8f66_unit_2.pdf
+file: /courses/21l-706-studies-in-film-fall-2005/58f1f013a1fd9c11f91dacc2a3ed8f66_unit_2.pdf
 file_size: 14947
 file_type: application/pdf
 learning_resource_types: []

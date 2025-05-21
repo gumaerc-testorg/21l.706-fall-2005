@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes questions for discussion a piece of string  by  Guy
   De Maupassant, and The Killers by Ernest Hemingway.
-file: /ol-ocw-studio-app/courses/21l-706-studies-in-film-fall-2005/8257a3e4f93931696d0f08a623162c32_unit_1.pdf
+file: /courses/21l-706-studies-in-film-fall-2005/8257a3e4f93931696d0f08a623162c32_unit_1.pdf
 file_size: 16987
 file_type: application/pdf
 learning_resource_types: []
