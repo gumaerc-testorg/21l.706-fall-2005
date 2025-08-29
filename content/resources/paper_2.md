@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the topics of discussion on the film Quixote,
   and Seven Samurai.
-file: /courses/21l-706-studies-in-film-fall-2005/0ac9ab9c90408e4cf9cdf26bfb93f71e_paper_2.pdf
+file: /ol-ocw-studio-app/courses/21l-706-studies-in-film-fall-2005/0ac9ab9c90408e4cf9cdf26bfb93f71e_paper_2.pdf
 file_size: 44328
 file_type: application/pdf
 learning_resource_types:
