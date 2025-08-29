@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes questions for discussion on Citizen Kane was American,
   Casablanca, and Gatsby.
-file: /courses/21l-706-studies-in-film-fall-2005/c4225b3ac35acf3dc748747d7b99b8b3_unit_11.pdf
+file: /ol-ocw-studio-app/courses/21l-706-studies-in-film-fall-2005/c4225b3ac35acf3dc748747d7b99b8b3_unit_11.pdf
 file_size: 25337
 file_type: application/pdf
 learning_resource_types: []
